@@ -1,0 +1,15 @@
+{
+  "name": "heycater",
+  "version": "1.0.0",
+  "description": "An assignment to find all broken links acrros the application.",
+  "main": "cypress.config.js",
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  },
+  "scripts": {
+    "test": "cypress open",
+    "headless-mode": "cypress run"
+  },
+  "author": "Jaideep Naik",
+  "license": "ISC"
+}
